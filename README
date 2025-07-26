@@ -1,3 +1,0 @@
-osu! timing analyser is a tool used to find the BPM and Offset for the timing in a beatmap. Simply run this code and then input the file path to your .mp3 and the code will do the rest!
-
-Note: This tool checks every ‘beat’ in a file and uses it to create a single BPM. This means that it will not work if the song has multiple BPMs used.
